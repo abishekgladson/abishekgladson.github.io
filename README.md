@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+@@ -7,7 +7,7 @@
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>My Resume</title>
+	<title>Resume of Abishek Gladson</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
 
-You can use the [editor on GitHub](https://github.com/abishekgladson/abishekgladson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+@ -59,7 +59,7 @@
+   			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	   		<div class="logo">
+		         <a href="index.html">CV</a>
+		         <a href="index.html" title="">KARDS</a>
+		      </div>		      
 
-### Markdown
+		   	<nav id="main-nav-wrap">
+@ -310,7 +310,6 @@
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      		<h3>Responsive Image</h3>
 
-```markdown
-Syntax highlighted code block
+      		<p><img src="images/portfolio/modals/m-lighthouse.jpg"></p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abishekgladson/abishekgladson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      	</div>
